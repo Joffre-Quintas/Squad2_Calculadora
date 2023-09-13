@@ -1,0 +1,1 @@
+# Squad2_Calculadora
