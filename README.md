@@ -3,8 +3,8 @@
 
 ### Participantes: Francieli, Isadora Dias, Joffre Quintas, Joice Martins, Laurieny, Lenon Rocks, Lucas Machado, Maria Eduarda, Marlon Costa
 ## Como rodar a API
-npm i
-npm run dev
+- npm i
+- npm run dev
 
 
 ## Quebra de Tarefas
