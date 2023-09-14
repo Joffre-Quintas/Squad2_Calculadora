@@ -1,6 +1,7 @@
 import { Router } from 'express';
 import Calculadora from '../controllers/Calculadora';
 
+
 const routes = Router();
 
 routes.post('/soma', Calculadora.somar)
